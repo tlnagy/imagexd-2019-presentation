@@ -1,0 +1,13 @@
+[deps]
+AxisArrays = "39de3d68-74b9-583c-8d2d-e117c070f3a9"
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+ColorSchemes = "35d6a980-a343-548e-a6ea-1d62b119f2f4"
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+ImageAxes = "2803e5a7-5153-5ecf-9a86-9b4c37f5f5ac"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+MappedArrays = "dbb5928d-eab1-5f90-85c2-b9b0edb7c900"
+OMETIFF = "2d0ec36b-e807-5756-994b-45af29551fcf"
+SimpleTraits = "699a6c99-e7fa-54fc-8d76-47d257e15c1d"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
